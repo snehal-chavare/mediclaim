@@ -1,0 +1,25 @@
+name: Workshop Exercise Submission
+description: "Please ensure you have completed the exercise and submitted before the next workshop."
+title: "Exercise: <insert title here>"
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a description for your methodology and the steps you took with the agent to arrive at your solution. Explain the conversation / correction loops, the escalation process, the recovery cycle, etc. Please be as detailed as possible.
+    validations:
+      required: false
+  - type: input
+    id: repo_url
+    attributes:
+      label: GitHub Repo URL
+      description: Provide a link to the GitHub repo containing your solution. If private, ensure you grant repo access to the instructor (pibzion)
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: Other (optional)
+      description: Provide any other relevant information (optional) regarding your solution.
+    validations:
+      required: false

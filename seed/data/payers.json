@@ -1,0 +1,14 @@
+[
+  {
+    "payer_id": "BCBS-001",
+    "name": "Blue Cross Blue Shield"
+  },
+  {
+    "payer_id": "AETNA-002",
+    "name": "Aetna"
+  },
+  {
+    "payer_id": "UHC-003",
+    "name": "UnitedHealthcare"
+  }
+]

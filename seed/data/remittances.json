@@ -1,0 +1,242 @@
+[
+  {
+    "id": "R-000",
+    "claim_id": "C-2100-00",
+    "paid_cents": 17900,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-001",
+    "claim_id": "C-2100-01",
+    "paid_cents": 3940,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-002",
+    "claim_id": "C-2101-02",
+    "paid_cents": 13089,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-003",
+    "claim_id": "C-2102-03",
+    "paid_cents": 33952,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-004",
+    "claim_id": "C-2104-01",
+    "paid_cents": 24482,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-005",
+    "claim_id": "C-2104-02",
+    "paid_cents": 4947,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-006",
+    "claim_id": "C-2104-03",
+    "paid_cents": 15684,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-007",
+    "claim_id": "C-2105-01",
+    "paid_cents": 29505,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-008",
+    "claim_id": "C-2107-00",
+    "paid_cents": 10237,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-009",
+    "claim_id": "C-2111-00",
+    "paid_cents": 8439,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-010",
+    "claim_id": "C-2111-01",
+    "paid_cents": 25245,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-011",
+    "claim_id": "C-2112-03",
+    "paid_cents": 18542,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-012",
+    "claim_id": "C-2114-00",
+    "paid_cents": 15915,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-013",
+    "claim_id": "C-2114-01",
+    "paid_cents": 24360,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-014",
+    "claim_id": "C-2115-01",
+    "paid_cents": 31675,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-015",
+    "claim_id": "C-2117-01",
+    "paid_cents": 13840,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-016",
+    "claim_id": "C-2120-02",
+    "paid_cents": 9336,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-017",
+    "claim_id": "C-2122-04",
+    "paid_cents": 25975,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-018",
+    "claim_id": "C-2123-04",
+    "paid_cents": 24030,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-019",
+    "claim_id": "C-2124-01",
+    "paid_cents": 20470,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-020",
+    "claim_id": "C-2126-01",
+    "paid_cents": 5190,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-021",
+    "claim_id": "C-2126-03",
+    "paid_cents": 4932,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-022",
+    "claim_id": "C-2129-00",
+    "paid_cents": 27771,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-023",
+    "claim_id": "C-2129-02",
+    "paid_cents": 5747,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-024",
+    "claim_id": "C-2129-03",
+    "paid_cents": 21791,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-025",
+    "claim_id": "C-2129-05",
+    "paid_cents": 3417,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-026",
+    "claim_id": "C-2130-04",
+    "paid_cents": 8599,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-027",
+    "claim_id": "C-2131-01",
+    "paid_cents": 11743,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-028",
+    "claim_id": "C-2131-04",
+    "paid_cents": 10252,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-029",
+    "claim_id": "C-2132-00",
+    "paid_cents": 7893,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-030",
+    "claim_id": "C-2133-03",
+    "paid_cents": 27069,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-031",
+    "claim_id": "C-2133-04",
+    "paid_cents": 30175,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-032",
+    "claim_id": "C-2134-02",
+    "paid_cents": 24458,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-033",
+    "claim_id": "C-2135-00",
+    "paid_cents": 24118,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-034",
+    "claim_id": "C-2135-03",
+    "paid_cents": 9859,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-035",
+    "claim_id": "C-2137-01",
+    "paid_cents": 30076,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-036",
+    "claim_id": "C-2139-02",
+    "paid_cents": 35740,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-037",
+    "claim_id": "C-2139-03",
+    "paid_cents": 26781,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-038",
+    "claim_id": "C-2139-04",
+    "paid_cents": 9442,
+    "posted_date": "2024-10-01"
+  },
+  {
+    "id": "R-039",
+    "claim_id": "C-2139-05",
+    "paid_cents": 12885,
+    "posted_date": "2024-10-01"
+  }
+]

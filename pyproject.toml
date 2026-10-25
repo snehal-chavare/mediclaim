@@ -1,0 +1,37 @@
+[project]
+name = "brownfield-med-claim-lite"
+version = "0.1.0"
+description = "Healthcare claims & billing service — foundations brownfield exercise repo"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.110",
+    "uvicorn>=0.29",
+    "pydantic>=2.6",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-mock>=3.12",
+    "httpx>=0.27",
+    "ruff>=0.4",
+]
+
+[tool.setuptools.packages.find]
+include = ["medclaim*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+# Era-3 code is held to the linter. The era-1 / era-2 modules are inherited
+# and intentionally not lint-clean; do not "fix" them (see docs/adr/ADR-001).
+extend-exclude = [
+    "medclaim/billing",
+    "medclaim/claims",
+    "medclaim/repo",
+    "medclaim/notify",
+    "seed/generate.py",
+]
+line-length = 100

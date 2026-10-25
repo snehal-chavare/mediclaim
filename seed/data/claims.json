@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "C-1042-01",
+    "patient_id": "P-1042",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-03-04",
+    "amount_cents": 22000,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-1042-02",
+    "patient_id": "P-1042",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-04-11",
+    "amount_cents": 9500,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-1077-01",
+    "patient_id": "P-1077",
+    "payer_id": "BCBS-001",
+    "service_date": "2023-12-28",
+    "amount_cents": 40000,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2100-00",
+    "patient_id": "P-2100",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-07-09",
+    "amount_cents": 29834,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2100-01",
+    "patient_id": "P-2100",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-08-06",
+    "amount_cents": 6568,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2100-02",
+    "patient_id": "P-2100",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-08-05",
+    "amount_cents": 12857,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2100-03",
+    "patient_id": "P-2100",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-03-06",
+    "amount_cents": 27078,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2100-04",
+    "patient_id": "P-2100",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-04-09",
+    "amount_cents": 34200,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2100-05",
+    "patient_id": "P-2100",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-06-11",
+    "amount_cents": 16025,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2101-00",
+    "patient_id": "P-2101",
+    "payer_id": "UHC-003",
+    "service_date": "2024-05-12",
+    "amount_cents": 56544,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2101-01",
+    "patient_id": "P-2101",
+    "payer_id": "UHC-003",
+    "service_date": "2024-08-03",
+    "amount_cents": 22560,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2101-02",
+    "patient_id": "P-2101",
+    "payer_id": "UHC-003",
+    "service_date": "2024-08-20",
+    "amount_cents": 21816,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2101-03",
+    "patient_id": "P-2101",
+    "payer_id": "UHC-003",
+    "service_date": "2024-05-03",
+    "amount_cents": 36493,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2102-00",
+    "patient_id": "P-2102",
+    "payer_id": "UHC-003",
+    "service_date": "2024-08-16",
+    "amount_cents": 35935,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2102-01",
+    "patient_id": "P-2102",
+    "payer_id": "UHC-003",
+    "service_date": "2024-08-14",
+    "amount_cents": 32189,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2102-02",
+    "patient_id": "P-2102",
+    "payer_id": "UHC-003",
+    "service_date": "2024-04-17",
+    "amount_cents": 28918,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2102-03",
+    "patient_id": "P-2102",
+    "payer_id": "UHC-003",
+    "service_date": "2024-05-18",
+    "amount_cents": 56588,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2102-04",
+    "patient_id": "P-2102",
+    "payer_id": "UHC-003",
+    "service_date": "2024-07-24",
+    "amount_cents": 5564,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2103-00",
+    "patient_id": "P-2103",
+    "payer_id": "UHC-003",
+    "service_date": "2024-05-16",
+    "amount_cents": 51055,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2103-01",
+    "patient_id": "P-2103",
+    "payer_id": "UHC-003",
+    "service_date": "2024-07-06",
+    "amount_cents": 28063,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2103-02",
+    "patient_id": "P-2103",
+    "payer_id": "UHC-003",
+    "service_date": "2024-07-01",
+    "amount_cents": 57620,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2104-00",
+    "patient_id": "P-2104",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-04-22",
+    "amount_cents": 35538,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2104-01",
+    "patient_id": "P-2104",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-09-01",
+    "amount_cents": 40804,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2104-02",
+    "patient_id": "P-2104",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-03-15",
+    "amount_cents": 8246,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2104-03",
+    "patient_id": "P-2104",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-04-26",
+    "amount_cents": 26141,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2104-04",
+    "patient_id": "P-2104",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-02-15",
+    "amount_cents": 18360,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2105-00",
+    "patient_id": "P-2105",
+    "payer_id": "UHC-003",
+    "service_date": "2024-05-04",
+    "amount_cents": 21165,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2105-01",
+    "patient_id": "P-2105",
+    "payer_id": "UHC-003",
+    "service_date": "2024-03-05",
+    "amount_cents": 49175,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2105-02",
+    "patient_id": "P-2105",
+    "payer_id": "UHC-003",
+    "service_date": "2024-02-19",
+    "amount_cents": 15080,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2105-03",
+    "patient_id": "P-2105",
+    "payer_id": "UHC-003",
+    "service_date": "2024-02-06",
+    "amount_cents": 6696,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2106-00",
+    "patient_id": "P-2106",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-04-19",
+    "amount_cents": 59653,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2106-01",
+    "patient_id": "P-2106",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-07-04",
+    "amount_cents": 13832,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2106-02",
+    "patient_id": "P-2106",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-04-13",
+    "amount_cents": 22261,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2107-00",
+    "patient_id": "P-2107",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-07-25",
+    "amount_cents": 17063,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2107-01",
+    "patient_id": "P-2107",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-08-15",
+    "amount_cents": 7711,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2107-02",
+    "patient_id": "P-2107",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-03-11",
+    "amount_cents": 13633,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2107-03",
+    "patient_id": "P-2107",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-04-12",
+    "amount_cents": 48276,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2107-04",
+    "patient_id": "P-2107",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-05-25",
+    "amount_cents": 38947,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2108-00",
+    "patient_id": "P-2108",
+    "payer_id": "UHC-003",
+    "service_date": "2024-01-15",
+    "amount_cents": 53277,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2108-01",
+    "patient_id": "P-2108",
+    "payer_id": "UHC-003",
+    "service_date": "2024-08-23",
+    "amount_cents": 33023,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2108-02",
+    "patient_id": "P-2108",
+    "payer_id": "UHC-003",
+    "service_date": "2024-02-08",
+    "amount_cents": 13313,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2108-03",
+    "patient_id": "P-2108",
+    "payer_id": "UHC-003",
+    "service_date": "2024-01-25",
+    "amount_cents": 26314,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2109-00",
+    "patient_id": "P-2109",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-09-02",
+    "amount_cents": 22267,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2109-01",
+    "patient_id": "P-2109",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-09-02",
+    "amount_cents": 35356,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2109-02",
+    "patient_id": "P-2109",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-08-09",
+    "amount_cents": 18125,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2110-00",
+    "patient_id": "P-2110",
+    "payer_id": "UHC-003",
+    "service_date": "2024-09-09",
+    "amount_cents": 5595,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2110-01",
+    "patient_id": "P-2110",
+    "payer_id": "UHC-003",
+    "service_date": "2024-02-22",
+    "amount_cents": 42949,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2110-02",
+    "patient_id": "P-2110",
+    "payer_id": "UHC-003",
+    "service_date": "2024-08-01",
+    "amount_cents": 6491,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2110-03",
+    "patient_id": "P-2110",
+    "payer_id": "UHC-003",
+    "service_date": "2024-05-15",
+    "amount_cents": 20596,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2111-00",
+    "patient_id": "P-2111",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-06-22",
+    "amount_cents": 14065,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2111-01",
+    "patient_id": "P-2111",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-05-15",
+    "amount_cents": 42075,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2111-02",
+    "patient_id": "P-2111",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-01-03",
+    "amount_cents": 23273,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2111-03",
+    "patient_id": "P-2111",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-07-09",
+    "amount_cents": 12759,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2111-04",
+    "patient_id": "P-2111",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-03-03",
+    "amount_cents": 42297,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2112-00",
+    "patient_id": "P-2112",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-01-17",
+    "amount_cents": 50414,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2112-01",
+    "patient_id": "P-2112",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-08-02",
+    "amount_cents": 11845,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2112-02",
+    "patient_id": "P-2112",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-08-15",
+    "amount_cents": 19622,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2112-03",
+    "patient_id": "P-2112",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-05-21",
+    "amount_cents": 30904,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2113-00",
+    "patient_id": "P-2113",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-04-05",
+    "amount_cents": 35051,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2113-01",
+    "patient_id": "P-2113",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-04-01",
+    "amount_cents": 28939,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2114-00",
+    "patient_id": "P-2114",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-03-11",
+    "amount_cents": 26526,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2114-01",
+    "patient_id": "P-2114",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-04-15",
+    "amount_cents": 40601,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2114-02",
+    "patient_id": "P-2114",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-02-12",
+    "amount_cents": 5655,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2114-03",
+    "patient_id": "P-2114",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-09-15",
+    "amount_cents": 58120,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2114-04",
+    "patient_id": "P-2114",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-06-21",
+    "amount_cents": 58843,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2115-00",
+    "patient_id": "P-2115",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-03-16",
+    "amount_cents": 24730,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2115-01",
+    "patient_id": "P-2115",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-06-15",
+    "amount_cents": 52793,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2116-00",
+    "patient_id": "P-2116",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-03-14",
+    "amount_cents": 49373,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2116-01",
+    "patient_id": "P-2116",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-09-19",
+    "amount_cents": 56370,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2117-00",
+    "patient_id": "P-2117",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-06-27",
+    "amount_cents": 56303,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2117-01",
+    "patient_id": "P-2117",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-08-16",
+    "amount_cents": 23067,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2117-02",
+    "patient_id": "P-2117",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-02-01",
+    "amount_cents": 48308,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2118-00",
+    "patient_id": "P-2118",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-05-16",
+    "amount_cents": 28916,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2118-01",
+    "patient_id": "P-2118",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-09-27",
+    "amount_cents": 34041,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2118-02",
+    "patient_id": "P-2118",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-07-03",
+    "amount_cents": 48757,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2118-03",
+    "patient_id": "P-2118",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-01-12",
+    "amount_cents": 37738,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2119-00",
+    "patient_id": "P-2119",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-01-14",
+    "amount_cents": 15740,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2119-01",
+    "patient_id": "P-2119",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-09-03",
+    "amount_cents": 25717,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2119-02",
+    "patient_id": "P-2119",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-04-02",
+    "amount_cents": 37916,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2120-00",
+    "patient_id": "P-2120",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-06-21",
+    "amount_cents": 22697,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2120-01",
+    "patient_id": "P-2120",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-01-17",
+    "amount_cents": 28581,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2120-02",
+    "patient_id": "P-2120",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-07-25",
+    "amount_cents": 15560,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2120-03",
+    "patient_id": "P-2120",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-07-22",
+    "amount_cents": 20628,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2121-00",
+    "patient_id": "P-2121",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-03-03",
+    "amount_cents": 59394,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2121-01",
+    "patient_id": "P-2121",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-08-27",
+    "amount_cents": 16298,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2122-00",
+    "patient_id": "P-2122",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-07-15",
+    "amount_cents": 13000,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2122-01",
+    "patient_id": "P-2122",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-06-09",
+    "amount_cents": 22446,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2122-02",
+    "patient_id": "P-2122",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-05-16",
+    "amount_cents": 31925,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2122-03",
+    "patient_id": "P-2122",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-01-12",
+    "amount_cents": 47529,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2122-04",
+    "patient_id": "P-2122",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-01-04",
+    "amount_cents": 43293,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2122-05",
+    "patient_id": "P-2122",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-01-09",
+    "amount_cents": 22754,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2123-00",
+    "patient_id": "P-2123",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-03-15",
+    "amount_cents": 20438,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2123-01",
+    "patient_id": "P-2123",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-07-01",
+    "amount_cents": 27289,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2123-02",
+    "patient_id": "P-2123",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-04-10",
+    "amount_cents": 29433,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2123-03",
+    "patient_id": "P-2123",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-09-26",
+    "amount_cents": 27517,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2123-04",
+    "patient_id": "P-2123",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-06-05",
+    "amount_cents": 40051,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2124-00",
+    "patient_id": "P-2124",
+    "payer_id": "UHC-003",
+    "service_date": "2024-02-09",
+    "amount_cents": 6029,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2124-01",
+    "patient_id": "P-2124",
+    "payer_id": "UHC-003",
+    "service_date": "2024-08-24",
+    "amount_cents": 34118,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2125-00",
+    "patient_id": "P-2125",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-05-09",
+    "amount_cents": 46810,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2125-01",
+    "patient_id": "P-2125",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-06-11",
+    "amount_cents": 55573,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2125-02",
+    "patient_id": "P-2125",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-08-09",
+    "amount_cents": 47942,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2126-00",
+    "patient_id": "P-2126",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-08-04",
+    "amount_cents": 6342,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2126-01",
+    "patient_id": "P-2126",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-09-01",
+    "amount_cents": 8650,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2126-02",
+    "patient_id": "P-2126",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-09-19",
+    "amount_cents": 9472,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2126-03",
+    "patient_id": "P-2126",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-02-03",
+    "amount_cents": 8221,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2126-04",
+    "patient_id": "P-2126",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-06-11",
+    "amount_cents": 11039,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2127-00",
+    "patient_id": "P-2127",
+    "payer_id": "UHC-003",
+    "service_date": "2024-07-26",
+    "amount_cents": 56280,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2127-01",
+    "patient_id": "P-2127",
+    "payer_id": "UHC-003",
+    "service_date": "2024-02-02",
+    "amount_cents": 23939,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2127-02",
+    "patient_id": "P-2127",
+    "payer_id": "UHC-003",
+    "service_date": "2024-05-18",
+    "amount_cents": 48176,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2127-03",
+    "patient_id": "P-2127",
+    "payer_id": "UHC-003",
+    "service_date": "2024-05-16",
+    "amount_cents": 25108,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2128-00",
+    "patient_id": "P-2128",
+    "payer_id": "UHC-003",
+    "service_date": "2024-04-21",
+    "amount_cents": 27326,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2128-01",
+    "patient_id": "P-2128",
+    "payer_id": "UHC-003",
+    "service_date": "2024-08-09",
+    "amount_cents": 40077,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2128-02",
+    "patient_id": "P-2128",
+    "payer_id": "UHC-003",
+    "service_date": "2024-08-24",
+    "amount_cents": 31073,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2129-00",
+    "patient_id": "P-2129",
+    "payer_id": "UHC-003",
+    "service_date": "2024-05-27",
+    "amount_cents": 46285,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2129-01",
+    "patient_id": "P-2129",
+    "payer_id": "UHC-003",
+    "service_date": "2024-02-21",
+    "amount_cents": 43354,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2129-02",
+    "patient_id": "P-2129",
+    "payer_id": "UHC-003",
+    "service_date": "2024-09-04",
+    "amount_cents": 9579,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2129-03",
+    "patient_id": "P-2129",
+    "payer_id": "UHC-003",
+    "service_date": "2024-01-27",
+    "amount_cents": 36319,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2129-04",
+    "patient_id": "P-2129",
+    "payer_id": "UHC-003",
+    "service_date": "2024-03-07",
+    "amount_cents": 40715,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2129-05",
+    "patient_id": "P-2129",
+    "payer_id": "UHC-003",
+    "service_date": "2024-08-07",
+    "amount_cents": 5695,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2130-00",
+    "patient_id": "P-2130",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-05-11",
+    "amount_cents": 23589,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2130-01",
+    "patient_id": "P-2130",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-09-08",
+    "amount_cents": 21099,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2130-02",
+    "patient_id": "P-2130",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-01-08",
+    "amount_cents": 31759,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2130-03",
+    "patient_id": "P-2130",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-08-19",
+    "amount_cents": 7550,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2130-04",
+    "patient_id": "P-2130",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-01-11",
+    "amount_cents": 14333,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2131-00",
+    "patient_id": "P-2131",
+    "payer_id": "UHC-003",
+    "service_date": "2024-02-10",
+    "amount_cents": 26388,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2131-01",
+    "patient_id": "P-2131",
+    "payer_id": "UHC-003",
+    "service_date": "2024-04-03",
+    "amount_cents": 19573,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2131-02",
+    "patient_id": "P-2131",
+    "payer_id": "UHC-003",
+    "service_date": "2024-03-03",
+    "amount_cents": 9559,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2131-03",
+    "patient_id": "P-2131",
+    "payer_id": "UHC-003",
+    "service_date": "2024-06-24",
+    "amount_cents": 10874,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2131-04",
+    "patient_id": "P-2131",
+    "payer_id": "UHC-003",
+    "service_date": "2024-01-11",
+    "amount_cents": 17087,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2131-05",
+    "patient_id": "P-2131",
+    "payer_id": "UHC-003",
+    "service_date": "2024-01-10",
+    "amount_cents": 45303,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2132-00",
+    "patient_id": "P-2132",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-09-20",
+    "amount_cents": 13155,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2132-01",
+    "patient_id": "P-2132",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-07-13",
+    "amount_cents": 16117,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2132-02",
+    "patient_id": "P-2132",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-05-12",
+    "amount_cents": 44693,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2132-03",
+    "patient_id": "P-2132",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-03-27",
+    "amount_cents": 24058,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2132-04",
+    "patient_id": "P-2132",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-08-12",
+    "amount_cents": 19492,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2133-00",
+    "patient_id": "P-2133",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-07-18",
+    "amount_cents": 54887,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2133-01",
+    "patient_id": "P-2133",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-08-26",
+    "amount_cents": 9245,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2133-02",
+    "patient_id": "P-2133",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-09-21",
+    "amount_cents": 37897,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2133-03",
+    "patient_id": "P-2133",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-09-16",
+    "amount_cents": 45115,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2133-04",
+    "patient_id": "P-2133",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-04-20",
+    "amount_cents": 50293,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2134-00",
+    "patient_id": "P-2134",
+    "payer_id": "UHC-003",
+    "service_date": "2024-03-26",
+    "amount_cents": 8868,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2134-01",
+    "patient_id": "P-2134",
+    "payer_id": "UHC-003",
+    "service_date": "2024-01-06",
+    "amount_cents": 43574,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2134-02",
+    "patient_id": "P-2134",
+    "payer_id": "UHC-003",
+    "service_date": "2024-05-21",
+    "amount_cents": 40764,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2135-00",
+    "patient_id": "P-2135",
+    "payer_id": "UHC-003",
+    "service_date": "2024-01-11",
+    "amount_cents": 40198,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2135-01",
+    "patient_id": "P-2135",
+    "payer_id": "UHC-003",
+    "service_date": "2024-09-05",
+    "amount_cents": 19915,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2135-02",
+    "patient_id": "P-2135",
+    "payer_id": "UHC-003",
+    "service_date": "2024-09-11",
+    "amount_cents": 26740,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2135-03",
+    "patient_id": "P-2135",
+    "payer_id": "UHC-003",
+    "service_date": "2024-04-19",
+    "amount_cents": 16432,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2135-04",
+    "patient_id": "P-2135",
+    "payer_id": "UHC-003",
+    "service_date": "2024-04-27",
+    "amount_cents": 28374,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2136-00",
+    "patient_id": "P-2136",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-01-09",
+    "amount_cents": 22805,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2136-01",
+    "patient_id": "P-2136",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-04-11",
+    "amount_cents": 48067,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2137-00",
+    "patient_id": "P-2137",
+    "payer_id": "UHC-003",
+    "service_date": "2024-06-12",
+    "amount_cents": 21961,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2137-01",
+    "patient_id": "P-2137",
+    "payer_id": "UHC-003",
+    "service_date": "2024-08-20",
+    "amount_cents": 50127,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2137-02",
+    "patient_id": "P-2137",
+    "payer_id": "UHC-003",
+    "service_date": "2024-09-17",
+    "amount_cents": 6717,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2137-03",
+    "patient_id": "P-2137",
+    "payer_id": "UHC-003",
+    "service_date": "2024-06-23",
+    "amount_cents": 41409,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2137-04",
+    "patient_id": "P-2137",
+    "payer_id": "UHC-003",
+    "service_date": "2024-05-17",
+    "amount_cents": 44507,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2137-05",
+    "patient_id": "P-2137",
+    "payer_id": "UHC-003",
+    "service_date": "2024-02-10",
+    "amount_cents": 39824,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2138-00",
+    "patient_id": "P-2138",
+    "payer_id": "UHC-003",
+    "service_date": "2024-09-09",
+    "amount_cents": 5297,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2138-01",
+    "patient_id": "P-2138",
+    "payer_id": "UHC-003",
+    "service_date": "2024-01-03",
+    "amount_cents": 47842,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2138-02",
+    "patient_id": "P-2138",
+    "payer_id": "UHC-003",
+    "service_date": "2024-05-11",
+    "amount_cents": 47561,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2139-00",
+    "patient_id": "P-2139",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-02-23",
+    "amount_cents": 37901,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2139-01",
+    "patient_id": "P-2139",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-04-22",
+    "amount_cents": 30947,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2139-02",
+    "patient_id": "P-2139",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-07-12",
+    "amount_cents": 59567,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2139-03",
+    "patient_id": "P-2139",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-02-03",
+    "amount_cents": 44636,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2139-04",
+    "patient_id": "P-2139",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-07-07",
+    "amount_cents": 15737,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2139-05",
+    "patient_id": "P-2139",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-05-17",
+    "amount_cents": 21475,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2140-00",
+    "patient_id": "P-2140",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-07-18",
+    "amount_cents": 29302,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2140-01",
+    "patient_id": "P-2140",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-01-19",
+    "amount_cents": 30014,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2140-02",
+    "patient_id": "P-2140",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-02-18",
+    "amount_cents": 38459,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2140-03",
+    "patient_id": "P-2140",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-07-02",
+    "amount_cents": 15675,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2141-00",
+    "patient_id": "P-2141",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-07-13",
+    "amount_cents": 46942,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2141-01",
+    "patient_id": "P-2141",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-08-27",
+    "amount_cents": 45712,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2141-02",
+    "patient_id": "P-2141",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-02-04",
+    "amount_cents": 59583,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2141-03",
+    "patient_id": "P-2141",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-07-06",
+    "amount_cents": 8677,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2141-04",
+    "patient_id": "P-2141",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-08-05",
+    "amount_cents": 54670,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2142-00",
+    "patient_id": "P-2142",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-07-21",
+    "amount_cents": 40140,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2142-01",
+    "patient_id": "P-2142",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-06-04",
+    "amount_cents": 50210,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2142-02",
+    "patient_id": "P-2142",
+    "payer_id": "BCBS-001",
+    "service_date": "2024-09-21",
+    "amount_cents": 8808,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2143-00",
+    "patient_id": "P-2143",
+    "payer_id": "UHC-003",
+    "service_date": "2024-07-01",
+    "amount_cents": 54419,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2143-01",
+    "patient_id": "P-2143",
+    "payer_id": "UHC-003",
+    "service_date": "2024-07-04",
+    "amount_cents": 43102,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2143-02",
+    "patient_id": "P-2143",
+    "payer_id": "UHC-003",
+    "service_date": "2024-05-22",
+    "amount_cents": 54978,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2143-03",
+    "patient_id": "P-2143",
+    "payer_id": "UHC-003",
+    "service_date": "2024-08-23",
+    "amount_cents": 16730,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2143-04",
+    "patient_id": "P-2143",
+    "payer_id": "UHC-003",
+    "service_date": "2024-02-26",
+    "amount_cents": 10762,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2143-05",
+    "patient_id": "P-2143",
+    "payer_id": "UHC-003",
+    "service_date": "2024-02-05",
+    "amount_cents": 20079,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2144-00",
+    "patient_id": "P-2144",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-08-27",
+    "amount_cents": 51659,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2144-01",
+    "patient_id": "P-2144",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-07-05",
+    "amount_cents": 38846,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2144-02",
+    "patient_id": "P-2144",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-05-13",
+    "amount_cents": 39558,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2144-03",
+    "patient_id": "P-2144",
+    "payer_id": "AETNA-002",
+    "service_date": "2024-07-24",
+    "amount_cents": 59397,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2145-00",
+    "patient_id": "P-2145",
+    "payer_id": "UHC-003",
+    "service_date": "2024-08-14",
+    "amount_cents": 47242,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2145-01",
+    "patient_id": "P-2145",
+    "payer_id": "UHC-003",
+    "service_date": "2024-05-06",
+    "amount_cents": 31699,
+    "adjustment_cents": 500,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2145-02",
+    "patient_id": "P-2145",
+    "payer_id": "UHC-003",
+    "service_date": "2024-04-14",
+    "amount_cents": 31766,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2145-03",
+    "patient_id": "P-2145",
+    "payer_id": "UHC-003",
+    "service_date": "2024-04-27",
+    "amount_cents": 59933,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2146-00",
+    "patient_id": "P-2146",
+    "payer_id": "UHC-003",
+    "service_date": "2024-04-22",
+    "amount_cents": 35727,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2146-01",
+    "patient_id": "P-2146",
+    "payer_id": "UHC-003",
+    "service_date": "2024-08-04",
+    "amount_cents": 6245,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2146-02",
+    "patient_id": "P-2146",
+    "payer_id": "UHC-003",
+    "service_date": "2024-04-17",
+    "amount_cents": 19721,
+    "adjustment_cents": 0,
+    "status": "submitted",
+    "is_deleted": null
+  },
+  {
+    "id": "C-2146-03",
+    "patient_id": "P-2146",
+    "payer_id": "UHC-003",
+    "service_date": "2024-03-12",
+    "amount_cents": 57354,
+    "adjustment_cents": 1200,
+    "status": "submitted",
+    "is_deleted": null
+  }
+]

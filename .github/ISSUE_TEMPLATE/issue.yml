@@ -1,0 +1,10 @@
+name: Issue to PR Workflow
+description: "Create an issue to start a PR workflow."
+# title: "<insert title here>"
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Add a description
+    validations:
+      required: false
