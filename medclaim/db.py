@@ -77,8 +77,9 @@ CREATE TABLE IF NOT EXISTS remittances (
     posted_date  TEXT NOT NULL
 );
 
--- Voids are recorded here regardless of which void path ran. The legacy path
--- writes ONLY here; the modern path also flips claims.is_deleted.
+-- Voids are recorded here regardless of which void path ran. Both paths also
+-- flip claims.is_deleted (the legacy path only since T-103; older legacy voids
+-- may exist here with is_deleted still 0/NULL).
 CREATE TABLE IF NOT EXISTS void_log (
     claim_id   TEXT NOT NULL,
     reason     TEXT,

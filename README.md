@@ -47,5 +47,8 @@ docs/               domain primer, ADRs, tickets
 - Money is integer **cents** everywhere. Some old comments say dollars; the
   comments are wrong, the integers are right.
 - `make test` runs against a throwaway database, never your dev one.
+- A claim is hidden from statements only when `claims.is_deleted = 1`. There
+  are two void paths (`void_claim` and `void_claim_legacy`); both must set the
+  flag as well as writing `void_log`. See `docs/adr/ADR-002` and ticket T-103.
 - There is no agent-instructions file in this repo. Writing one is the first
   exercise.
