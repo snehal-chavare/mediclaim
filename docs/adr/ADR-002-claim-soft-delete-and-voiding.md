@@ -31,3 +31,19 @@ and 0 rows are both shown and only explicitly-voided rows are hidden.
 Correctly voided claims disappear from statements. The correctness of this
 depends on the void path actually setting the flag — see the void code in
 `medclaim/claims/`.
+
+## Amendment (2026, T-103)
+
+The legacy void path (`claims.void_claim_legacy`, still used by the ERA-import
+and correction flows) wrote `void_log` but never set `is_deleted`, so claims
+voided that way stayed on statements and statement history. It now sets
+`is_deleted = 1` as well, so **both void paths set the flag**.
+
+Claims voided through the legacy path before this fix still have `is_deleted`
+0/NULL and need a one-off backfill:
+
+```sql
+update claims set is_deleted = 1
+where id in (select claim_id from void_log)
+  and is_deleted is not 1;
+```
